@@ -1,0 +1,39 @@
+Date: 2021-06-03 16:14:08
+Client: 0
+meniu 1 47
+Pear-Cranberry Mincemeat Lattice Pie  15
+Total: 62
+
+Date: 2021-06-03 16:16:18
+Client: 0
+meniu 2 117
+Chocolate-Almond Pie  85
+Total: 202
+
+Date: 2021-06-03 16:23:39
+Client: 0
+Deep-Dish Wild Blueberry Pie  34
+Lamb Köfte with Tarator Sauce  88
+Total: 122
+
+Date: 2021-06-03 17:56:21
+Client: 0
+Chilled and Dilled Avgolemono Soup  98
+Squash and Sweet-Potato Soup with Chipotle Sauce  91
+Total: 189
+
+Date: 2021-06-03 19:19:14
+Client: 0
+meniu vineri 207
+Total: 207
+
+Date: 2021-06-04 07:52:44
+Client: 0
+meniu 1 84
+Total: 84
+
+Date: 2021-06-04 08:44:55
+Client: 0
+meniu 1 141
+Total: 141
+
